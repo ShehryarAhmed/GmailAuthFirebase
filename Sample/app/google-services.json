@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "829904793174",
+    "firebase_url": "https://asherauth.firebaseio.com",
+    "project_id": "asherauth",
+    "storage_bucket": "asherauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829904793174:android:27f174873d4aaa85",
+        "android_client_info": {
+          "package_name": "com.example.mmairajansari.sample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "829904793174-m4aqihv1ff8ff8bpsvi74orrdkhccsqd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnclP_GnCJSO-yMkRR8x-Gw59aHbPg8JM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

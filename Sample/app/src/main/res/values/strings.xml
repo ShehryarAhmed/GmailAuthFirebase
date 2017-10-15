@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Sample</string>
+    <string name="btn_logout_from_google">LogOut</string>
+    <string name="loading">Loading</string>
+    <string name="google_title_text">Google Title</string>
+    <string name="signed_out">Signout</string>
+    <string name="sign_out">SignOut</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="firebase_status_fmt">FireBase Status</string>
+    <string name="google_status_fmt">Google Status</string>
+    <string name="desc_firebase_lockup">Desc FireBase LockUp</string>
+</resources>
